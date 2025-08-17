@@ -1,0 +1,10 @@
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\imgref-778f2acb6992dc9f.d: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\traits.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\iter.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\ops.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\libimgref-778f2acb6992dc9f.rlib: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\traits.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\iter.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\ops.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\libimgref-778f2acb6992dc9f.rmeta: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\traits.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\iter.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\ops.rs
+
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\lib.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\traits.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\iter.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\imgref-1.11.0\src\ops.rs:

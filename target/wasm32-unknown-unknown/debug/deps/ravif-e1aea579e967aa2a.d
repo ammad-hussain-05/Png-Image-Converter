@@ -1,0 +1,10 @@
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\ravif-e1aea579e967aa2a.d: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\av1encoder.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\error.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\dirtyalpha.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\libravif-e1aea579e967aa2a.rlib: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\av1encoder.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\error.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\dirtyalpha.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\debug\deps\libravif-e1aea579e967aa2a.rmeta: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\av1encoder.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\error.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\dirtyalpha.rs
+
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\lib.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\av1encoder.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\error.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ravif-0.11.20\src\dirtyalpha.rs:

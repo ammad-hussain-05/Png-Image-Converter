@@ -1,0 +1,9 @@
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\debug\deps\v_frame-edd78a419ae339c7.d: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\frame.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\math.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\pixel.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\plane.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\debug\deps\libv_frame-edd78a419ae339c7.rmeta: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\frame.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\math.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\pixel.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\plane.rs
+
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\lib.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\frame.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\math.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\pixel.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\v_frame-0.3.9\src\plane.rs:

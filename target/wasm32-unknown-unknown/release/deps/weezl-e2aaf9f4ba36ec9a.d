@@ -1,0 +1,10 @@
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\release\deps\weezl-e2aaf9f4ba36ec9a.d: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\decode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\encode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\error.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\release\deps\libweezl-e2aaf9f4ba36ec9a.rlib: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\decode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\encode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\error.rs
+
+C:\Users\AALIYAN'Z COMPUTER\Desktop\rust-project\target\wasm32-unknown-unknown\release\deps\libweezl-e2aaf9f4ba36ec9a.rmeta: C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\lib.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\decode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\encode.rs C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\error.rs
+
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\lib.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\decode.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\encode.rs:
+C:\Users\AALIYAN'Z\ COMPUTER\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\weezl-0.1.10\src\error.rs:
